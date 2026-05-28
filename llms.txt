@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/olos-shomoyer-pare/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Olos Shomoyer Pare](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/olos-shomoyer-pare/) |
+| **Get License** | [Request Licensing for Olos Shomoyer Pare](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/olos-shomoyer-pare/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2328)
 
 ---
 
