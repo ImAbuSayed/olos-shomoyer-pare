@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Olos Shomoyer Pare
+
+This log tracks the cryptographic history and versioning for the song **Olos Shomoyer Pare** (olos-shomoyer-pare).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T20:23:19.265999 | `v1` | `e3cd996f37aa00e5ee8fd5bf48855e705a5d3bade9d58f4dbc7e3de8d6157a48` | `8df9b0577a78fa5ac5c3713a06b2190f365c5644d332c32896fa950335b9141e` | `2026-05-28_olos-shomoyer-pare-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
